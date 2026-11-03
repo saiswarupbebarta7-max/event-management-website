@@ -2,7 +2,7 @@
 
 Task: **Design and Develop a Responsive Event Management Website** (K Explore – Web Designing).
 
-**Live site:** _add your Vercel / Netlify / GitHub Pages link here_
+**Live site:** https://saiswarupbebarta7-max.github.io/event-management-website/
 
 ## What it does
 - **Hero section** introducing the platform, with a live countdown to the next event.
